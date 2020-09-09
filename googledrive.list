@@ -41,3 +41,6 @@ DOMAIN-SUFFIX,githubusercontent.com
 # my blog
 DOMAIN,blog.asdfqwer.tk
 DOMAIN,psk.asdfqwer.tk
+
+# Mendeley
+DOMAIN-KEYWORD,mendeley
