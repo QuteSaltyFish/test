@@ -44,3 +44,6 @@ DOMAIN,psk.asdfqwer.tk
 
 # Mendeley
 DOMAIN-KEYWORD,mendeley
+
+# arvix
+DOMAIN-KEYWORD,arxiv
