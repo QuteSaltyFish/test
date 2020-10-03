@@ -1,0 +1,12 @@
+#KartRider,跑跑卡丁车（韩服）,0,0,1,0,0,0,By - 未来
+IP-CIDR,13.125.0.0/16,no-resolve
+IP-CIDR,18.182.80.150/32,no-resolve
+IP-CIDR,52.79.0.0/16,no-resolve
+IP-CIDR,54.65.237.233/32,no-resolve
+IP-CIDR,54.180.0.0/16,no-resolve
+IP-CIDR,183.110.0.0/16,no-resolve
+IP-CIDR,183.153.0.0/16,no-resolve
+IP-CIDR,211.218.0.0/16,no-resolve
+IP-CIDR,218.145.0.0/16,no-resolve
+IP-CIDR,218.153.0.0/16,no-resolve
+IP-CIDR,220.95.0.0/16,no-resolve

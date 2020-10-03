@@ -1,0 +1,7 @@
+#R2Arena,R2竞技场服,0,0,1,0,0,0,by tianyu
+IP-CIDR,185.17.10.0/24,no-resolve
+IP-CIDR,190.115.26.0/24,no-resolve
+IP-CIDR,213.232.192.0/24,no-resolve
+IP-CIDR,52.79.166.0/24,no-resolve
+IP-CIDR,92.53.68.0/24,no-resolve
+IP-CIDR,118.123.237.0/24,no-resolve
