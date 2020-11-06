@@ -1,3 +1,7 @@
 USER-AGENT,Slack*
 DOMAIN-KEYWORD, slack
 DOMAIN-KEYWORD, slack-edge
+
+
+# telegram
+IP-CIDR,196.55.192.0/19,no-resolve
