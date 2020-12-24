@@ -50,3 +50,6 @@ DOMAIN-KEYWORD,arxiv
 
 #overleaf
 DOMAIN-KEYWORD,overleaf
+
+#gmail
+DOMAIN-KEYWORD,gmail
