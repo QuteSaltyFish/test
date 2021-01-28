@@ -53,3 +53,6 @@ DOMAIN-KEYWORD,overleaf
 
 #gmail
 DOMAIN-KEYWORD,gmail
+
+
+DOMAIN-SUFFIX,dl.google.com
