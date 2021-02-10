@@ -55,7 +55,7 @@ DOMAIN-KEYWORD,overleaf
 DOMAIN-KEYWORD,gmail
 
 
-DOMAIN-SUFFIX,dl.google.com
-
 # notion
 DOMAIN-KEYWORD,notion
+
+DOMAIN-SUFFIX,dl.google.com
